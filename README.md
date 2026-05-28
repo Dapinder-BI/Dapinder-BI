@@ -39,3 +39,4 @@ I work with SQL Server, Power BI, Tableau, Azure, Microsoft Fabric, Databricks, 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dapinder%20Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dapinder-s/)
+
