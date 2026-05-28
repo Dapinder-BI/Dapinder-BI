@@ -1,42 +1,60 @@
-## Hey, I'm Dapinder 👋
+<table>
+<tr>
+<td valign="top" width="65%">
 
-Experienced **Business Intelligence Developer** helping organizations turn raw data into clear, actionable decisions.
+## Hey, I'm Dapinder Singh 👋
 
-I design and build end-to-end BI solutions — from writing optimized SQL queries and building data models to creating interactive dashboards and deploying cloud-based data pipelines.
+**BI Developer | Data Analyst | Power BI | Tableau | SQL | Azure | Databricks | Microsoft Fabric**
 
-I work with SQL Server, Power BI, Tableau, Azure, Microsoft Fabric, Databricks, PySpark, and Python.
+I transform raw data into actionable business insights and build modern analytics solutions using BI, cloud, and AI-powered workflows.
 
----
-
-## What I'm building
-
-**[Retail Sales SQL Analysis](https://github.com/Dapinder-BI/retail-sales-sql-analysis)** — A complete T-SQL portfolio project built on a large retail dataset (500 customers · 3,000 orders · 9,000+ order items). Covers 24 questions from beginner to advanced — including window functions, CTEs, RFM customer segmentation, Month-over-Month growth, and PIVOT analysis.
-
----
-
-## Tech Stack
-
-**Databases & Query**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft&logoColor=white)
-
-**BI & Visualisation**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Cloud & Big Data**
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Quick Focus Areas:**
+- 📊 Power BI & Tableau Dashboards
+- 🗄️ SQL Analysis & Data Modelling
+- ☁️ Azure Analytics & Microsoft Fabric
+- ⚡ Databricks & PySpark Pipelines
+- 🤖 AI-Powered BI Workflows
 
 ---
 
-## Connect with me
+### About Me
+
+I'm an experienced BI & Analytics professional who bridges the gap between raw data and business decisions. I design end-to-end analytics solutions — from writing optimized SQL queries and building semantic models to deploying cloud pipelines and delivering executive-level dashboards.
+
+---
+
+### 🛠 Tech Stack
+
+| BI & Viz | Databases | Cloud & Big Data | Languages |
+|----------|-----------|-----------------|-----------|
+| Power BI | SQL Server | Microsoft Azure | Python |
+| Tableau  | T-SQL      | Microsoft Fabric | PySpark  |
+| Excel    |            | Databricks       | Pandas   |
+
+---
+
+### 📁 Featured Projects
+
+**[Retail Sales SQL Analysis](https://github.com/Dapinder-BI/retail-sales-sql-analysis)**
+24 T-SQL questions (Beginner → Advanced) on a large retail dataset — window functions, CTEs, RFM segmentation, MoM/YoY growth analysis.
+
+**BI Portfolio** — *Coming soon*
+
+**Cloud Analytics Project** — *Coming soon*
+
+---
+
+### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dapinder%20Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dapinder-s/)
 
+</td>
+<td valign="top" width="35%" align="center">
+<br/><br/><br/>
+<img src="YOUR_IMAGE_LINK_HERE" width="220" style="border-radius: 50%;"/>
+<br/><br/>
+<b>Dapinder Singh</b><br/>
+<i>BI Developer & Data Analyst</i>
+</td>
+</tr>
+</table>
