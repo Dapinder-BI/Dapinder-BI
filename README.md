@@ -63,7 +63,7 @@ Covers **24 T-SQL questions** from beginner to advanced — including window fun
 ## Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/dapinder-singh" target="_blank">
+  <a href="https://www.linkedin.com/in/dapinder-s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dapinder%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
