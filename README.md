@@ -8,12 +8,6 @@ I work with SQL Server, Power BI, Tableau, Azure, Microsoft Fabric, Databricks, 
 
 ---
 
-## What I'm building
-
-**[Retail Sales SQL Analysis](https://github.com/Dapinder-BI/retail-sales-sql-analysis)** — A complete T-SQL portfolio project built on a large retail dataset (500 customers · 3,000 orders · 9,000+ order items). Covers 24 questions from beginner to advanced — including window functions, CTEs, RFM customer segmentation, Month-over-Month growth, and PIVOT analysis.
-
----
-
 ## Tech Stack
 
 **Databases & Query**
